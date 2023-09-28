@@ -1,0 +1,29 @@
+.conteiner { 
+    margin-top: 20px; 
+display: flex; 
+    height: 294px; 
+    width: 370px; 
+} 
+.nice { 
+    margin-left: 50%; 
+   display: block; 
+    height: 80%; 
+    width: 80%; 
+    object-fit: fill; 
+    object-position: 15px 15px; 
+} 
+.first { 
+    display: block; 
+    height: 80%; 
+    width: 80%; 
+    object-fit: fill; 
+    object-position: 15px 15px; 
+} 
+.two { 
+    display: block; 
+    height: 80%; 
+    width: 80%; 
+    object-fit: fill; 
+    object-position: 15px 15px; 
+ 
+}
